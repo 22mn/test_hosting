@@ -10,7 +10,7 @@ app.use(bodyParser.json());
 //app.use("/public", express.static(path+"/public"));
 
 app.get("/",function(req,res){
-	res.sendFile(path+"/home.html");
+	res.sendFile(path+"/index.html");
 })
 
 app.get("/initial",function(req,res){
