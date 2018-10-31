@@ -7,10 +7,10 @@ var path = process.cwd();
 require("dotenv").load();
 app.use(bodyParser.urlencoded({extended:true}));
 app.use(bodyParser.json());
-app.use("/public", express.static(path+"/public"));
+//app.use("/public", express.static(path+"/public"));
 
 app.get("/",function(req,res){
-	res.sendFile(path+"/public/home.html");
+	res.sendFile(path+"/home.html");
 })
 
 app.get("/initial",function(req,res){
