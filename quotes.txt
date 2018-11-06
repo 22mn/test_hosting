@@ -1,0 +1,102 @@
+{"0" : ["I love you the more in that I believe you had liked me for my own sake and for nothing else.","John Keats"],
+
+"1" : ["But man is not made for defeat. A man can be destroyed but not defeated.","Ernest Hemingway"],
+
+"2" : ["When you reach the end of your rope, tie a knot in it and hang on.","Franklin D. Roosevelt"],
+
+"3" : ["There is nothing permanent except change.","Heraclitus"],
+
+"4" : ["You cannot shake hands with a clenched fist.","Indira Gandhi"],
+
+"5" : ["Let us sacrifice our today so that our children can have a better tomorrow.","A. P. J. Abdul Kalam"],
+
+"6" : ["The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers. You can do anything you decide to do. You can act to change and control your life; and the procedure, the process is its own reward.","Amelia Earhart"],
+
+"7" : ["Do not mind anything that anyone tells you about anyone else. Judge everyone and everything for yourself.","Henry James"],
+
+"8" : ["Learning never exhausts the mind.","Leonardo da Vinci"],
+
+"9" : ["There is no charm equal to tenderness of heart.","Jane Austen"],
+
+"10" : ["All that we see or seem is but a dream within a dream.","Edgar Allan Poe"],
+
+"11" : ["Lord, make me an instrument of thy peace. Where there is hatred, let me sow love.","Francis of Assisi"],
+
+"12" : ["If you cannot do great things, do small things in a great way.","Napoleon Hill"],
+
+"13" : ["Permanence, perseverance and persistence in spite of all obstacles, discouragements, and impossibilities: It is this, that in all things distinguishes the strong soul from the weak.","Thomas Carlyle"],
+
+"14" : ["Independence is happiness.","Susan B. Anthony"],
+
+"15" : ["The supreme art of war is to subdue the enemy without fighting.","Sun Tzu"],
+
+"16" : ["Keep your face always toward the sunshine - and shadows will fall behind you.","Walt Whitman"],
+
+"17" : ["Happiness can exist only in acceptance.","George Orwell"],
+
+"18" : ["Love has no age, no limit; and no death.","John Galsworthy"],
+
+"19" : ["You can't blame gravity for falling in love.","Albert Einstein"],
+
+"20" : ["There is only one corner of the universe you can be certain of improving, and that's your own self.","Aldous Huxley"],
+
+"21" : ["Honesty is the first chapter in the book of wisdom.","Thomas Jefferson"],
+
+"22" : ["The journey of a thousand miles begins with one step.","Lao Tzu"],
+
+"23" : ["Whoever is happy will make others happy too.","Anne Frank"],
+
+"24" : ["I have not failed. I've just found 10,000 ways that won't work.","Thomas A. Edison"],
+
+"25" : ["Tell me and I forget. Teach me and I remember. Involve me and I learn.","Benjamin Franklin"],
+
+"26" : ["There is nothing on this earth more to be prized than true friendship.","Thomas Aquinas"],
+
+"27" : ["A leader is one who knows the way, goes the way, and shows the way.","John C. Maxwell"],
+
+"28" : ["Very little is needed to make a happy life; it is all within yourself, in your way of thinking.","Marcus Aurelius"],
+
+"29" : ["If opportunity doesn't knock, build a door.","Milton Berle"],
+
+"30" : ["The secret of getting ahead is getting started.","Mark Twain"],
+
+"31" : ["Let us be grateful to people who make us happy, they are the charming gardeners who make our souls blossom.","Marcel Proust"],
+
+"32" : ["Always remember that you are absolutely unique. Just like everyone else.","Margaret Mead"],
+
+"33" : ["Wise men speak because they have something to say; Fools because they have to say something.","Plato"],
+
+"34" : ["If your actions inspire others to dream more, learn more, do more and become more, you are a leader.","John Quincy Adams"],
+
+"35" : ["A single rose can be my garden... a single friend, my world.","Leo Buscaglia"],
+
+"36" : ["Take up one idea. Make that one idea your life - think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success.","Swami Vivekananda"],
+
+"37" : ["Friends show their love in times of trouble, not in happiness.","Euripides"],
+
+"38" : ["You don't choose your family. They are God's gift to you, as you are to them.","Desmond Tutu"],
+
+"39" : ["Life is not a problem to be solved, but a reality to be experienced.","Soren Kierkegaard"],
+
+"40" : ["Today you are you! That is truer than true! There is no one alive who is you-er than you!","Dr. Seuss"],
+
+"41" : ["Education is the most powerful weapon which you can use to change the world.","Nelson Mandela"],
+
+"42" : ["Change your thoughts and you change your world.","Norman Vincent Peale"],
+
+"43" : ["In three words I can sum up everything I've learned about life: it goes on.","Robert Frost"],
+
+"44" : ["Love isn't something you find. Love is something that finds you.","Loretta Young"],
+
+"45" : ["Don't walk behind me; I may not lead. Don't walk in front of me; I may not follow. Just walk beside me and be my friend.","Albert Camus"],
+
+"46" : ["Do all things with love.","Og Mandino"],
+
+"47" : ["Success is not final, failure is not fatal: it is the courage to continue that counts.","Winston Churchill"],
+
+"48" : ["Do not go where the path may lead, go instead where there is no path and leave a trail.","Ralph Waldo Emerson"],
+
+"49" : ["Love is composed of a single soul inhabiting two bodies.","Aristotle"],
+
+"50" : ["Where there is love there is life.","Mahatma Gandhi"]}
+
